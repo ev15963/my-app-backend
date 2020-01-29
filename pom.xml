@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.myapp</groupId>
 	<artifactId>my-app-backend</artifactId>
-	<packaging>war</packaging>
 	<version>1.0.0</version>
 	<name>my-app-backend</name>
 	<description>demo</description>
